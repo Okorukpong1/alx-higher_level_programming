@@ -1,4 +1,4 @@
-Python - Tasks 📃 More Objects and Classes About thus project:
+pPython - Tasks 📃 More Objects and Classes About thus project:
 
 In this project, I continued to learn and practice;
 
